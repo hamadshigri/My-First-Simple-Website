@@ -16,4 +16,6 @@ I have used different tags in this website like:
 <hr>
 <a>
 <img>
-
+<ul>
+<ol>
+<table>
